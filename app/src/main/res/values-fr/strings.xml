@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stringMenuPrincipal">Menu Principal</string>
+    <string name="stringIdioma">Langue</string>
+    <string name="stringSair">Sortir</string>
+</resources>
